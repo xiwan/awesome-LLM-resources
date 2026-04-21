@@ -373,6 +373,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 35. [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX): Building a Self-Evolving Ecosystem of AI Agents.
 36. [ii-agent](https://github.com/Intelligent-Internet/ii-agent): a new open-source framework to build and deploy intelligent agents.
 37. [OWL](https://github.com/camel-ai/owl): Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation.
+38. [ACP Bridge](https://github.com/xiwan/acp-bridge): 通过 ACP 协议将 CLI Agent（Kiro/Claude Code/Codex/Hermes）暴露为 HTTP API，支持进程池、SSE 流式、异步任务、多 Agent 互调用。
 38. [OpenManus](https://github.com/FoundationAgents/OpenManus): No fortress, purely open ground. OpenManus is Coming.
 39. [JoyAgent-JDGenie](https://github.com/jd-opensource/joyagent-jdgenie): 业界首个开源高完成度轻量化通用多智能体产品.
 40. [coze-studio](https://github.com/coze-dev/coze-studio): An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before.
